@@ -1,6 +1,6 @@
 # VNN
 
-Synthetic data experiments for paper on coVariance Neural Networks.
+Synthetic data experiments for paper on coVariance Neural Networks (NeurIPS 2022).
 
 
 Jupyter notebook Synthetic_Data_Experiments.ipynb stores the
